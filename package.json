@@ -1,0 +1,21 @@
+{
+  "name": "test-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Giri Jeedigunta",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:giri-jeedigunta/ms-teams-web-hooks.git"
+  },  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
